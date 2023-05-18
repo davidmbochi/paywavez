@@ -1,0 +1,79 @@
+img{
+    width: 100%;
+}
+
+body{
+    background-color: #f8f9fa;
+}
+
+.header{
+    background-color: rgba(1,65,255,0.68);
+}
+
+.brand-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+
+.brand-info{
+    display: grid;
+    text-align: left;
+}
+
+.brand{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.brand-text{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.nav-link-text{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.nav-container{
+    height: 100%;
+}
+
+.nav-ul{
+    margin-top: auto;
+}
+.left-card-text{
+    text-align: start;
+}
+
+.right-card-text{
+    text-align: end;
+}
+
+paywavez-card-title{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: rgba(0,0,0,0.71);
+}
+.payment-methods-section{
+    height: 250px;
+}
+
+.contacts{
+    /*background-color: rgba(44, 80, 16, 0.71);*/
+    background-color: #282c34;
+}
